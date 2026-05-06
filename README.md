@@ -1,16 +1,25 @@
-## Hi 👋
+# 👋 Hi, I'm FARHEEN
 
-<!--
-**FAIRY-CODES/FAIRY-CODES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am an aspiring Data Analyst passionate about turning data into meaningful insights.
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
+- Python for Data Analysis
+- Excel (Advanced)
+- SQL
+- Power BI / Tableau (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- Excel
+- Basic SQL
+- Data Cleaning & Automation
+
+## 📂 Projects
+- File Organizer using Python (Automation Project)
+
+## 📈 Goal
+To become a Data Analyst in a reputed MNC and work on real-world data problems.
+
+## ⚡ Fun Fact
+I enjoy solving real-world problems using code and data.
